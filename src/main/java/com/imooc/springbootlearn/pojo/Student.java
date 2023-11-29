@@ -1,7 +1,7 @@
 package com.imooc.springbootlearn.pojo;
 
 /**
- * 描述： 学生实体类
+ * 描述： 学生实体类(结构于数据库保持一致)
  */
 public class Student {
     Integer id;
